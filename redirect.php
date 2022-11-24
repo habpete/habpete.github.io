@@ -1,4 +1,4 @@
 <?php
 header("HTTP/1.1 301 Moved Permanently");
-header('Location: habpete.github.io/original.jpeg');
+header('Location: /original.jpeg');
 return;
