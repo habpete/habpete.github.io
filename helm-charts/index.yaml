@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-05-20T16:55:24.687314+03:00"
+entries:
+  itc-prometheus-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-08T20:33:01.320773+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d9be51e78b618f2e2be6a2c463581517a68aba21121b66d47de4653ab5659c91
+    name: itc-prometheus-chart
+    type: application
+    urls:
+    - itc-prometheus-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-08T20:33:01.31976+03:00"
